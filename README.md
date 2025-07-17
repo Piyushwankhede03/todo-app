@@ -21,4 +21,4 @@ This is a simple and clean To-Do List App built using HTML, CSS, and JavaScript.
 
 ## 🙋‍♂️ Author
 - Name: Piyush Wankhede
-- GitHub: [@yourusername](https://github.com/Piyushwankhede03)
+- GitHub: [@Piyushwankhede03](https://github.com/Piyushwankhede03)
