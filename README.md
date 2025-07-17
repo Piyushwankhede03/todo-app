@@ -13,7 +13,7 @@ This is a simple and clean To-Do List App built using HTML, CSS, and JavaScript.
 - JavaScript (Vanilla)
 
 ## 🔗 Live Demo
-[Click here to view the live site](https://yourusername.github.io/todo-app)
+[Click here to view the live site](https://piyushwankhede03.github.io/todo-app/)
 
 ## 🛠️ How to Run
 1. Clone the repository
